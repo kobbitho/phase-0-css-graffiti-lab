@@ -1,1 +1,33 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  body {
+    background: black url(../images/sketch.jpg) no-repeat center;
+    background-size: initial;}
+    body {
+        margin: 0px;
+    }
+    body {
+        font-size: 16px;
+        font-size: 1rem;
+        font-weight: normal;
+        line-height: 1.5;
+        color: var(--ic-brand-font-color-dark);
+        -webkit-font-smoothing: antialiased;
+        
+    }
+    body {
+        background: black url(../images/sketch.jpg) no-repeat center;
+        background-size: initial
+    }
+    user agent stylesheet
+    body {
+        display: block;
+        margin: 8px;
+    }
+    html {
+        font-family: sans-serif;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+    }
